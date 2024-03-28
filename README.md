@@ -6,7 +6,7 @@ This is a clone of the Spotify website created as a project  using HTML, CSS, an
 
 - Replica of the Spotify website's user interface.
 - Responsive design for various screen sizes.
-- Basic functionality such as playing music, browsing playlists, and searching for tracks.
+- Basic functionality such as playing music.
 
 ## Technologies Used
 
